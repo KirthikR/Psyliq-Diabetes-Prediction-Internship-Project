@@ -1,4 +1,4 @@
-# PSYLIQ DIABETES PREDICATION PROJECT
+# PSYLIQ DIABETES PREDICATION INTERNSHIP PROJECT
 # Project Overview:
 # Title: Psyliq Diabetes Prediction Project: Pioneering Predictive Analytics in Healthcare
 # Objective:
